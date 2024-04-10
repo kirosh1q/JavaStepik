@@ -1,0 +1,4 @@
+chat\ChatService.class
+chat\WebSocketChatServlet.class
+chat\ChatWebSocket.class
+main\Main.class
